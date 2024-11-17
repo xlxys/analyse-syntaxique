@@ -3,11 +3,6 @@
 #include <stdlib.h>
 %}
 
-/* %union {
-    int entier;
-    char* str;
-} */
-
 // Déclaration des tokens
 %token INT ID NUM IF ELSE WHILE
 
